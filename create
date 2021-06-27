@@ -1,0 +1,5 @@
+
+[4mSequelize CLI [Node: 16.3.0, CLI: 6.2.0, ORM: 6.6.2][24m
+
+New model was created at [94mD:\Cybersoft\management-movie\models\movie.js[39m .
+New migration was created at [94mD:\Cybersoft\management-movie\migrations\20210620160850-create-movie.js[39m .
